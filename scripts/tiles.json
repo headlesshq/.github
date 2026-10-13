@@ -1,0 +1,48 @@
+[
+  [
+    {
+      "id": "headlessmc",
+      "name": "HeadlessMc",
+      "url": "https://github.com/headlesshq/headlessmc",
+      "logo": "headlessmc.png",
+      "description": "A command line launcher for Minecraft Java Edition."
+    },
+    {
+      "id": "mc-runtime-test",
+      "name": "MC-Runtime-Test",
+      "url": "https://github.com/headlesshq/mc-runtime-test",
+      "logo": "mc-runtime-test.png",
+      "description": "Run the Minecraft client inside your CI/CD pipeline."
+    },
+    {
+      "id": "mc-server-test",
+      "name": "MC-Server-Test",
+      "url": "https://github.com/headlesshq/mc-server-test",
+      "logo": "mc-server-test.png",
+      "description": "Test Minecraft production servers inside your CI/CD pipeline."
+    }
+  ],
+  [
+    {
+      "id": "hmc-specifics",
+      "name": "HMC-Specifics",
+      "url": "https://github.com/headlesshq/hmc-specifics",
+      "logo": "hmc-specifics.png",
+      "description": "Version specific implementations of the HeadlessMc runtime."
+    },
+    {
+      "id": "hmc-optimizations",
+      "name": "HMC-Optimizations",
+      "url": "https://github.com/headlesshq/hmc-optimizations",
+      "logo": "hmc-optimizations.png",
+      "description": "Version specific optimizations for the HeadlessMc runtime."
+    },
+    {
+      "id": "hmc-web",
+      "name": "HMC-Web",
+      "url": "https://github.com/headlesshq/headlessmc-web",
+      "logo": "hmc-web.png",
+      "description": "HeadlessMc GUI running inside the browser."
+    }
+  ]
+]

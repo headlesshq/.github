@@ -1,55 +1,15 @@
 <h1 align="center">HeadlessHQ</h1>
 <p align="center">Tools for launching, running and testing Minecraft Java Edition clients/servers.</p>
 
-<table align="center">
-  <tbody>
-  <tr>
-    <td align="center" width="220">
-      <a href="https://github.com/headlesshq/headlessmc">
-        <img src="assets/headlessmc.png" alt="HeadlessMc logo" width="140"><br>
-        <b>HeadlessMc</b>
-      </a><br>
-      <sub>A command line launcher for Minecraft Java Edition.</sub>
-    </td>
-    <td align="center" width="220">
-      <a href="https://github.com/headlesshq/mc-runtime-test">
-        <img src="assets/mc-runtime-test.png" alt="MC-Runtime-Test logo" width="140"><br>
-        <b>MC-Runtime-Test</b>
-      </a><br>
-      <sub>Run the Minecraft client inside your CI/CD pipeline.</sub>
-    </td>
-    <td align="center" width="220">
-      <a href="https://github.com/headlesshq/mc-server-test">
-        <img src="assets/mc-server-test.png" alt="MC-Server-Test logo" width="140"><br>
-        <b>MC-Server-Test</b>
-      </a><br>
-      <sub>Test Minecraft production servers inside your CI/CD pipeline.</sub>
-    </td>
-  </tr>
-  </tbody>
-  <tbody>
-  <tr>
-    <td align="center" width="220">
-      <a href="https://github.com/headlesshq/hmc-specifics">
-        <img src="assets/hmc-specifics.png" alt="HMC-Specifics logo" width="140"><br>
-        <b>HMC-Specifics</b>
-      </a><br>
-      <sub>Version specific implementations of the HeadlessMc runtime.</sub>
-    </td>
-    <td align="center" width="220">
-      <a href="https://github.com/headlesshq/hmc-optimizations">
-        <img src="assets/hmc-optimizations.png" alt="HMC-Optimizations logo" width="140"><br>
-        <b>HMC-Optimizations</b>
-      </a><br>
-      <sub>Version specific optimizations for the HeadlessMc runtime.</sub>
-    </td>
-    <td align="center" width="220">
-      <a href="https://github.com/headlesshq/headlessmc-web">
-        <img src="assets/hmc-web.png" alt="HMC-Web logo" width="140"><br>
-        <b>HMC-Web</b>
-      </a><br>
-      <sub>HeadlessMc GUI running inside the browser.</sub>
-    </td>
-  </tr>
-  </tbody>
-</table>
+<!-- tiles:start -->
+<p align="center">
+  <a href="https://github.com/headlesshq/headlessmc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/headlessmc-dark.svg"><img src="assets/tiles/headlessmc-light.svg" width="260" alt="HeadlessMc: A command line launcher for Minecraft Java Edition."></picture></a>
+  <a href="https://github.com/headlesshq/mc-runtime-test"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/mc-runtime-test-dark.svg"><img src="assets/tiles/mc-runtime-test-light.svg" width="260" alt="MC-Runtime-Test: Run the Minecraft client inside your CI/CD pipeline."></picture></a>
+  <a href="https://github.com/headlesshq/mc-server-test"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/mc-server-test-dark.svg"><img src="assets/tiles/mc-server-test-light.svg" width="260" alt="MC-Server-Test: Test Minecraft production servers inside your CI/CD pipeline."></picture></a>
+</p>
+<p align="center">
+  <a href="https://github.com/headlesshq/hmc-specifics"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/hmc-specifics-dark.svg"><img src="assets/tiles/hmc-specifics-light.svg" width="260" alt="HMC-Specifics: Version specific implementations of the HeadlessMc runtime."></picture></a>
+  <a href="https://github.com/headlesshq/hmc-optimizations"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/hmc-optimizations-dark.svg"><img src="assets/tiles/hmc-optimizations-light.svg" width="260" alt="HMC-Optimizations: Version specific optimizations for the HeadlessMc runtime."></picture></a>
+  <a href="https://github.com/headlesshq/headlessmc-web"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/hmc-web-dark.svg"><img src="assets/tiles/hmc-web-light.svg" width="260" alt="HMC-Web: HeadlessMc GUI running inside the browser."></picture></a>
+</p>
+<!-- tiles:end -->
