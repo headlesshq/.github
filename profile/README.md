@@ -1,7 +1,8 @@
 <h1 align="center">HeadlessHQ</h1>
-<p align="center">Tools for launching, running and testing Minecraft Java Edition without a screen.</p>
+<p align="center">Tools for launching, running and testing Minecraft Java Edition clients/servers.</p>
 
 <table align="center">
+  <tbody>
   <tr>
     <td align="center" width="220">
       <a href="https://github.com/headlesshq/headlessmc">
@@ -25,6 +26,8 @@
       <sub>Test Minecraft production servers inside your CI/CD pipeline.</sub>
     </td>
   </tr>
+  </tbody>
+  <tbody>
   <tr>
     <td align="center" width="220">
       <a href="https://github.com/headlesshq/hmc-specifics">
@@ -40,5 +43,13 @@
       </a><br>
       <sub>Version specific optimizations for the HeadlessMc runtime.</sub>
     </td>
+    <td align="center" width="220">
+      <a href="https://github.com/headlesshq/headlessmc-web">
+        <img src="assets/hmc-web.png" alt="HMC-Web logo" width="140"><br>
+        <b>HMC-Web</b>
+      </a><br>
+      <sub>HeadlessMc GUI running inside the browser.</sub>
+    </td>
   </tr>
+  </tbody>
 </table>
